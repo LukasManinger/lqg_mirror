@@ -12,18 +12,10 @@ lqg.tracking.basic module
    :undoc-members:
    :show-inheritance:
 
-lqg.tracking.eye module
------------------------
+lqg.tracking.delay module
+-------------------------
 
-.. automodule:: lqg.tracking.eye
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-lqg.tracking.kf module
-----------------------
-
-.. automodule:: lqg.tracking.kf
+.. automodule:: lqg.tracking.delay
    :members:
    :undoc-members:
    :show-inheritance:
@@ -32,14 +24,6 @@ lqg.tracking.subjective module
 ------------------------------
 
 .. automodule:: lqg.tracking.subjective
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-lqg.tracking.three\_dims module
--------------------------------
-
-.. automodule:: lqg.tracking.three_dims
    :members:
    :undoc-members:
    :show-inheritance:

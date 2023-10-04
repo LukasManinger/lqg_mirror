@@ -7,6 +7,8 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
+   lqg.belief
+   lqg.control
    lqg.infer
    lqg.tracking
 
@@ -29,18 +31,10 @@ lqg.io module
    :undoc-members:
    :show-inheritance:
 
-lqg.kalman module
------------------
+lqg.lqg module
+--------------
 
-.. automodule:: lqg.kalman
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-lqg.model module
-----------------
-
-.. automodule:: lqg.model
+.. automodule:: lqg.lqg
    :members:
    :undoc-members:
    :show-inheritance:
@@ -53,10 +47,18 @@ lqg.optim module
    :undoc-members:
    :show-inheritance:
 
-lqg.riccati module
-------------------
+lqg.spec module
+---------------
 
-.. automodule:: lqg.riccati
+.. automodule:: lqg.spec
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+lqg.utils module
+----------------
+
+.. automodule:: lqg.utils
    :members:
    :undoc-members:
    :show-inheritance:
