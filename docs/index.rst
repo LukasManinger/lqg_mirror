@@ -7,8 +7,16 @@ Welcome to LQG's documentation!
 ===============================
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Notebooks:
+   :titlesonly:
+   
+   notebooks_copy/Tutorial
+   notebooks_copy/Data
+
+.. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: API:
 
    modules
 
